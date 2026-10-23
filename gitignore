@@ -1,0 +1,7 @@
+# 선생님 전용 — GitHub에 올리지 않음
+선생님용_정답예시.md
+
+# 운영체제가 자동으로 만드는 파일
+.DS_Store
+Thumbs.db
+desktop.ini
